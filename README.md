@@ -33,7 +33,7 @@ MATLAB scripts implementing our proposed Bayesian procedure,'Augmented Bayesian 
 
 This is a MATLAB code has been used to produce the numerical results and the statistical analysis reported in the paper  
 
-* "Bayesian analysis of multifidelity computer models with local features and non-nested experimental designs: Application to the WRF model", by Alexandros Konomi and Georgios karagiannis; submited  in Journal of American Statistical Association for publication. 
+* "Bayesian analysis of multifidelity computer models with local features and non-nested experimental designs: Application to the WRF model", by Alexandros Konomi and Georgios Karagianniswhich is submitted in Technometrics.
 
 ## Requirements 
 
